@@ -4,5 +4,6 @@ git status
 git add file .txt
 git status
 git commit -m "added a file"
-git branche 123
+git branch 123
+git branch
 
